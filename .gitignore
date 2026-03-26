@@ -1,0 +1,13 @@
+datasets/
+data.zip
+
+results/
+
+*.egg-info/
+.eggs/
+build/
+dist/
+
+__pycache__/
+*.py[cod]
+*$py.class
