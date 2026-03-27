@@ -1,0 +1,15 @@
+FT Epoch 1/15 | Train Loss: 0.0943 | Train Acc: 96.39% | Val Loss: 0.1208 | Val Acc: 95.86%
+FT Epoch 2/15 | Train Loss: 0.0729 | Train Acc: 97.12% | Val Loss: 0.1176 | Val Acc: 95.86%
+FT Epoch 3/15 | Train Loss: 0.0713 | Train Acc: 97.31% | Val Loss: 0.1135 | Val Acc: 96.23%
+FT Epoch 4/15 | Train Loss: 0.0631 | Train Acc: 97.66% | Val Loss: 0.1257 | Val Acc: 95.86%
+FT Epoch 5/15 | Train Loss: 0.0758 | Train Acc: 96.94% | Val Loss: 0.1284 | Val Acc: 95.73%
+FT Epoch 6/15 | Train Loss: 0.0624 | Train Acc: 97.77% | Val Loss: 0.1277 | Val Acc: 96.32%
+FT Epoch 7/15 | Train Loss: 0.0579 | Train Acc: 97.77% | Val Loss: 0.1239 | Val Acc: 96.00%
+FT Epoch 8/15 | Train Loss: 0.0573 | Train Acc: 97.92% | Val Loss: 0.1165 | Val Acc: 96.41%
+FT Epoch 9/15 | Train Loss: 0.0628 | Train Acc: 97.70% | Val Loss: 0.1188 | Val Acc: 96.32%
+FT Epoch 10/15 | Train Loss: 0.0560 | Train Acc: 97.94% | Val Loss: 0.1144 | Val Acc: 96.59%
+FT Epoch 11/15 | Train Loss: 0.0592 | Train Acc: 97.83% | Val Loss: 0.1248 | Val Acc: 96.41%
+FT Epoch 12/15 | Train Loss: 0.0551 | Train Acc: 97.85% | Val Loss: 0.1231 | Val Acc: 96.14%
+FT Epoch 13/15 | Train Loss: 0.0524 | Train Acc: 97.99% | Val Loss: 0.1287 | Val Acc: 95.86%
+FT Epoch 14/15 | Train Loss: 0.0466 | Train Acc: 98.24% | Val Loss: 0.1477 | Val Acc: 95.50%
+FT Epoch 15/15 | Train Loss: 0.0487 | Train Acc: 98.25% | Val Loss: 0.1221 | Val Acc: 96.64%

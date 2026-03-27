@@ -6,6 +6,7 @@ import seaborn as sns
 import pandas as pd
 import os
 
+
 def count_classes(data_path):
     path = Path(data_path)
     if not path.exists():
@@ -37,10 +38,6 @@ def plot_history(history, save_path=None):
     """
     Plots training history
     """
-    import pandas as pd
-    import seaborn as sns
-    import matplotlib.pyplot as plt
-    
     sns.set_theme(style="whitegrid")
     
     epochs_count = len(history['train_acc'])
